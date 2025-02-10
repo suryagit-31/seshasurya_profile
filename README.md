@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SESHA SURYA DAMMALAPA</h1>
 <h3 align="center">A passionate FUll-STACK developer and Devops engineer from India</h3>
 
-- 🔭 I’m currently working on **Pokedex using css and js**
+- 🔭 I’m currently working on **FULL STACK AND AI PROJECTS**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning ** FULL STACK**
 
-- 💬 Ask me about **react and javascript,flexbox**
+- 💬 Ask me about **WEB DEVLOPMENT**
 
 - 📫 How to reach me **suryadammalpa@gmail.com**
 
